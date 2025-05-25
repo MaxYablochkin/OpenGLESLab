@@ -1,4 +1,4 @@
-package com.dev.maxyablochkin.labworkopengles
+package com.dev.maxyablochkin.labworkopengles.task1
 
 import Tetrahedron
 import android.opengl.GLES20

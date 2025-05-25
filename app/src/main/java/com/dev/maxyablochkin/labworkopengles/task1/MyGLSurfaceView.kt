@@ -1,7 +1,8 @@
+package com.dev.maxyablochkin.labworkopengles.task1
+
 import android.content.Context
 import android.opengl.GLSurfaceView
 import android.view.MotionEvent
-import com.dev.maxyablochkin.labworkopengles.FigureGLRenderer
 
 class MyGLSurfaceView(context: Context) : GLSurfaceView(context) {
     private val renderer: FigureGLRenderer
